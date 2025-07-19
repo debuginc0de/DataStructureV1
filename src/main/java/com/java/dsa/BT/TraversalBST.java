@@ -1,4 +1,4 @@
-package com.java.dsa.BST;
+package com.java.dsa.BT;
 
 public class TraversalBST {
     Node root;

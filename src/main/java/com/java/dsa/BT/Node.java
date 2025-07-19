@@ -1,4 +1,4 @@
-package com.java.dsa.BST;
+package com.java.dsa.BT;
 
 class Node {
     int data;
